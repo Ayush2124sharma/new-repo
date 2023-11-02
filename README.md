@@ -7,6 +7,7 @@ learning git
 md (The file format is 'md', which stands for Markdown documentation. It is a lightweight markup language that can be easily converted to text.) 
 <br>
 Git is a powerful version control system that is widely used for managing and tracking changes to source code and other text-based files.
+
  git init: Initialize a new Git repository in the current directory.
 
  git clone [repository URL]: Create a copy of a remote Git repository on your local machine.
